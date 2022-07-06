@@ -7,3 +7,10 @@ The project is based on a Cloud architecture where I tried to create a basic Tel
 In the current position, the bot can suggest you exercise or work out according to the weather outside. Currently, we have to select a weather condition manually, but later we can also connect the bot to the actual sensors through serverless computing / AWS to get data from sensors & make decisions according to sensor data. 
 
 ## Installation and usage
+#### Docker
+#### Localstack
+#### AWS CLI
+#### boto3
+#### Telethon
+#### Python
+
