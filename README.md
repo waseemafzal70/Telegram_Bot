@@ -14,3 +14,6 @@ In the current position, the bot can suggest you exercise or work out according 
 #### Telethon
 #### Python
 
+## Setting up the environment
+##### 1. Clone the repository 
+<sub> </sub>
